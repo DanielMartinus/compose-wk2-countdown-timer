@@ -15,6 +15,11 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="darkBlue">#FF1A1F38</color>
+    <color name="darkBlueAccent">#FF2C314F</color>
+    <color name="textColor">#FF66666B</color>
+    <color name="yellow">#FFFEE400</color>
+
 </resources>
